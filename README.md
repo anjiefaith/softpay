@@ -1,3 +1,3 @@
 # Softpay
-A technical documentation for SOftpay
+A technical documentation for Softpay
 
